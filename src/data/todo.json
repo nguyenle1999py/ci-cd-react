@@ -1,0 +1,19 @@
+{
+    "todoList": [
+        {
+            "id": 1,
+            "title": "To do 1",
+            "isChecked": false 
+        },
+        {
+            "id": 2,
+            "title": "To do 2",
+            "isChecked": false 
+        },
+        {
+            "id": 3,
+            "title": "To do 3",
+            "isChecked": false 
+        }
+    ]
+}
